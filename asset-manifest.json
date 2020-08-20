@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/collegeDuniya/static/css/main.f7225747.chunk.css",
+    "main.js": "/collegeDuniya/static/js/main.6850c215.chunk.js",
+    "main.js.map": "/collegeDuniya/static/js/main.6850c215.chunk.js.map",
+    "runtime-main.js": "/collegeDuniya/static/js/runtime-main.bfa39a32.js",
+    "runtime-main.js.map": "/collegeDuniya/static/js/runtime-main.bfa39a32.js.map",
+    "static/js/2.40308c22.chunk.js": "/collegeDuniya/static/js/2.40308c22.chunk.js",
+    "static/js/2.40308c22.chunk.js.map": "/collegeDuniya/static/js/2.40308c22.chunk.js.map",
+    "index.html": "/collegeDuniya/index.html",
+    "precache-manifest.0612932b735ccfde2a88f930dce31c9d.js": "/collegeDuniya/precache-manifest.0612932b735ccfde2a88f930dce31c9d.js",
+    "service-worker.js": "/collegeDuniya/service-worker.js",
+    "static/css/main.f7225747.chunk.css.map": "/collegeDuniya/static/css/main.f7225747.chunk.css.map",
+    "static/js/2.40308c22.chunk.js.LICENSE.txt": "/collegeDuniya/static/js/2.40308c22.chunk.js.LICENSE.txt",
+    "static/media/college_02.jpg": "/collegeDuniya/static/media/college_02.619ee97e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfa39a32.js",
+    "static/js/2.40308c22.chunk.js",
+    "static/css/main.f7225747.chunk.css",
+    "static/js/main.6850c215.chunk.js"
+  ]
+}
