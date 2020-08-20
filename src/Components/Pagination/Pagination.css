@@ -1,0 +1,21 @@
+/*
+ * Pagination css File
+*/
+
+.Pagination {
+    /* propertys here */
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.page-number{
+    box-sizing: border-box;    
+    padding: 5px 10px;
+    border: 1px solid #444444;
+    margin-left: 10px;
+}
+.page-link{
+    color:#444444;
+    text-decoration: none;
+}

@@ -1,0 +1,194 @@
+h2 {
+    padding-left: 26px;
+    text-align: left;
+    font-size: 18.5px !important;
+    line-height: 18px;
+
+    font-weight: 400;
+}
+.badge {
+    height: 53px;
+    width: 75px;
+    top: -175px;
+    /* bottom: 20px; */
+    /* left: -124px; */
+    right: 50px;
+    border-radius: 2px;
+    background-color: #f5a626;
+}
+.college-grid {
+    margin-top: 68.7px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 62px;
+    grid-row-gap: 75px;
+    padding-left: 30px;
+}
+.college-col {
+    height: 377px;
+    width: 637.3px;
+    border: 1px solid rgba(68, 68, 68, 0.1);
+    border-radius: 2px;
+    box-shadow: 0px 0px 1px 0px #444444;
+}
+.college-image {
+    outline: 120px solid rgba(14, 13, 13, 0.74) !important;
+    outline-offset: -120px;
+    overflow: hidden;
+    position: relative;
+    /* height: 200px;   
+    width: 200px; */
+}
+.card-text {
+    padding: 20px;
+    padding-left: 0px;
+}
+.college-chip,
+.college-distance,
+.college-name,
+.college-add {
+    padding-left: 16px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.college-chip {
+    top: -70px;
+}
+h2,
+.chip,
+.college-name,
+.college-offer.add {
+    color: #444444 !important;
+}
+.chip {
+    margin-right: 10px;
+    background-color: #ffffff !important;
+    font-size: 13.5px !important;
+    font-weight: bolder;
+}
+.college-tag-text {
+    color: #ffffff;
+    font-size: 13.5px;
+    /* line-height: 18px;. */
+    line-height: 2;
+    font-weight: bolder;
+}
+
+.college-name {
+    font-size: 18.5px;
+    bottom: 45px;
+    line-height: 18px;
+}
+.ratings {
+    color: #444444 !important;
+    font-size: 11px !important;
+    margin-left: 11px;
+}
+.discount{
+    display: flex;
+    font-size: 11px;
+    line-height: 18px;
+}
+.discount-fee{
+    box-sizing: border-box;
+    background-color: #dd1c26;
+    padding:1px 5px;
+    color: #fff;
+}
+/* .discount-fee::before{
+    content: "";
+    border-color: transparent #dd1c26  transparent transparent ;
+    border-style: solid;
+    border-width: 8px;
+    right: 100%;
+} */
+.college-add {
+    bottom: 34px;
+}
+.add {
+    font-size: 13.5px;
+    line-height: 18px;
+}
+.place {
+    border-left: 1px solid;
+    margin-left: 5px;
+    padding-left: 5px;
+    color: #adadad;
+}
+.fee {
+    font-size: 28px;
+    line-height: 25.5px;
+    color: #dd1c26;
+    font-weight: bold;
+}
+.college-distance {
+    bottom: 17px;
+    color: #adadad;
+    font-size: 13.5px;
+}
+.fee_cycle {
+    font-size: 11px;
+    position: relative;
+    bottom: 15px;
+}
+.college-offer {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    font-size: 13.5px;
+    line-height: 18px;
+    bottom: 6px;
+    font-weight: 500;
+}
+.college-offer-text {
+    height: 30px;
+    background-color: #ccf5e7;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.text {
+    padding-left: 17px;
+    padding-right: 17px;
+    line-height: 2;
+}
+.amneties {
+    color: #37b396;
+    font-weight: 500;
+    line-height: 2;
+}
+.fee-cancel {
+    margin-right: 5px;
+}
+.wifi {
+    margin-left: 5px;
+}
+.image-tag {
+    height: 33px;
+    width: 153px;
+    background: #68a7ff;
+    display: inline-block;
+    position: relative;
+    right: -250px;
+    /* top: -66px; */
+    bottom: 397px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 400;
+    z-index: 1;
+    padding: 0 4px;
+    font-size: 15px;
+    line-height: 2;
+}
+.image-tag::before {
+    content: "";
+    position: absolute;
+    border-color: #68a7ff #68a7ff #68a7ff transparent;
+    border-style: solid;
+    border-width: 16px;
+    right: 100%;
+    width: 0;
+    height: -webkit-fill-available;
+    top: 0;
+}

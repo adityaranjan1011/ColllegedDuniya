@@ -1,13 +1,26 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+.MuiBadge-badge {
+  height: 53px !important;
+  width: 75px !important;
+  top: -175px !important;
+  /* bottom: 20px; */
+  left: -128px;
+  /* right: -187px !important; */
+  border-radius: 2px !important;
+  background-color: #f5a626;
+  color: #ffffff;
+  padding: 18px !important;
+  font-weight: bold !important;
+  font-size: 18.5px !important;
+  line-height: 18px !important;
 }
